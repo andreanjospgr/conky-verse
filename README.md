@@ -5,6 +5,6 @@
 
 sudo apt install conky verse
 
-#paste pt-BR
+#paste daily.verse -> pt-BR
 
 usr/share/verse
