@@ -1276,17 +1276,17 @@ R1203      quem será contra nós?"             Romanos 8:31
 R1204     "Eis que bem-aventurado é o homem a quem Deus repreende;
 R1204      não desprezes, pois, a correção de Todo-Poderoso."
 R1204                         Jó 5:17 
-R1205     "Go ye therefore, and teach all nations, baptizing them
-R1205      in the name of the Father, and of the Son, and of the 
-R1205      Holy Ghost: Teaching them to observe all things  
-R1205      whatsoever I have commanded you: and, lo, I am with 
-R1205      you alway, even unto the end of the world. Amen."     
-R1205            Mateus 28:19,20 
-R1206     "In my Father's house are many mansions: if it were not
-R1206      so, I would have told you. I go to prepare a place for
-R1206      you. And if I go and prepare a place for you, I will 
-R1206      come again, and receive you unto myself; that where I 
-R1206      am, there ye may be also."       João 14:2,3 
+R1205     "Portando ide, fazei discípulos de todas as nações,
+R1205      batizando-os em nome do Pai, e do Filho, e do
+R1205      Espírito Santo; Ensinando-os a guardar todas as   
+R1205      coisas que eu vos tenho mandado; e eis que eu estou 
+R1205      convosco todos os dias, até a consumação do séculos.     
+R1205      Amém."      Mateus 28:19,20
+R1206     "Na casa de meu Pai há muitas moradas; se não fosse
+R1206      assim, eu vo-lo teria dito. Vou preparar-vos lugar.
+R1206      E quando eu for, e vos preparar lugar, virei outra
+R1206      vez, e vos levarei pra mim mesmo, para que onde eu 
+R1206      estiver estejais vós também."       João 14:2,3 
 R1207     "E, se a tua mão te escandalizar, corta-a; melhor é 
 R1207      para ti entrares na vida aleijado do que, tendo duas
 R1207      mãos, ires para o inferno, para o fogo que nunca se 
