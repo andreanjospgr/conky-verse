@@ -136,8 +136,8 @@ R0206      ocidente, assim afasta de nós as nossas trangessões."
 R0206                        Salmos 103:10-12 
 R0207     "Mas o SENHOR está no seu santo templo; cale-se diante dele
 R0207      toda a terra."                      Habacuque 2:20 
-R0208     "The heavens declare the glory of God; and the  
-R0208      firmament showeth his handywork."          Psalms 19:1
+R0208     "Os céus declaram a glória de Deus e o firmamento
+R0208      anuncia a obra das suas mãos."             salmos 19:1
 R0209     "Sejam agradáveis as palavras da minha boca e a meditação
 R0209      do meu coração perante a tua face, SENHOR, Rocha minha e
 R0209      Redentor meu!"                      Salmos 19:14 
