@@ -141,7 +141,7 @@ R0208      anuncia a obra das suas mãos."             salmos 19:1
 R0209     "Sejam agradáveis as palavras da minha boca e a meditação
 R0209      do meu coração perante a tua face, SENHOR, Rocha minha e
 R0209      Redentor meu!"                      Salmos 19:14 
-R0210     "Alegrei-me quando me disseram:Vamos á casa do nto the 
+R0210     "Alegrei-me quando me disseram:Vamos á casa do 
 R0210      SENHOR."                   Salmos 122:1 
 R0211     "Celebrai com júbilo ao SENHOR, todas as terras. Servi
 R0211      ao SENHOR com alegria; e entrai diante dele com canto.
